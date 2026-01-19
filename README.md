@@ -11,6 +11,21 @@ I enjoy working across the stack — from clean, responsive UIs to reliable back
 - Comfortable collaborating async across time zones.  
 - Always learning.
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"  width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
 
 ## Here you'll find:
 
@@ -23,7 +38,13 @@ Some repos are polished, some are messy — both are intentional 🙂
 
 ## Let's talk 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yarakhairat/)  
-- 🌐 [Portfolio](https://www.linkedin.com/in/yarakhairat/)  
+<p align="center">
+<a href="https://www.linkedin.com/in/yarakhairat/" target="_blank" rel="noopener noreferrer" alt="linkedin" style="margin: 0 10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+<a href="https://undefinedyara.github.io/website/" target="_blank" rel="noopener noreferrer" alt="website">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg"  width="40" /> 
+  </a>
+ </p>
 
 If you’re building something interesting and need someone who cares about both **engineering** and **details**, I’d love to chat.
